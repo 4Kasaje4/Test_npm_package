@@ -1,0 +1,21 @@
+{
+  "name": "test_npm_package_kasaje",
+  "version": "1.0.1",
+  "description": "for test build npm package",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.js" ,
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "kasaje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4Kasaje4/Test_npm_package/issues"
+  },
+  "homepage": "https://github.com/4Kasaje4/Test_npm_package#readme"
+}
